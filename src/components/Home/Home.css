@@ -1,0 +1,44 @@
+.card {
+  width: 312px;
+  border-radius: 10px;
+  border: 5px solid gray;
+}
+.info {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card-btn {
+  width: 175px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid #2f80ed;
+  background: #2f80ed;
+}
+.home-container {
+  display: flex;
+}
+
+.card-list {
+  width: 312px;
+  height: 355px;
+  border-radius: 12px;
+}
+.title {
+  color: #1c1b1b;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.description {
+  color: rgba(28, 27, 27, 0.6);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+}
+.course {
+  color: #1c1b1b;
+  font-size: 32px;
+  font-weight: 700;
+}
